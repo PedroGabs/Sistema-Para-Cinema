@@ -18,27 +18,18 @@ Projeto desenvolvido em Java com foco em **Programação Orientada a Objetos (PO
 
 ## 🧱 Estrutura do Projeto
 
-
+```
 src/
-
 ├── Instituicao/
-
 │ ├── Filme.java
-
 │ ├── Sala.java
-
 │ └── Sessao.java
-
 │
-
 ├── Controller/
-
 │ └── MenuControler.java
-
 │
-
 └── Main.java
-
+```
 
 ---
 
