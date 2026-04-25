@@ -1,3 +1,4 @@
+
 # 🎬 Sistema de Cinema (Java)
 
 Projeto desenvolvido em Java com foco em **Programação Orientada a Objetos (POO)**, simulando o funcionamento básico de um cinema via terminal.
